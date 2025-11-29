@@ -3,6 +3,9 @@
 An interactive **Streamlit application** for analyzing, forecasting, and simulating macroeconomic and fiscal indicators across multiple countries and sources.  
 This app transforms raw fiscal data into actionable insights aligned with the **Sustainable Development Goals (SDGs)**.
 
+Check the Dashboard through this link:
+(https://macrofiscalintelligencedashboard.streamlit.app/)
+
 ---
 
 ## 📊 Dataset
